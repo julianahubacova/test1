@@ -1,0 +1,11 @@
+---
+title: "Projet_recherche_ECN3950_UdeM_H23"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
